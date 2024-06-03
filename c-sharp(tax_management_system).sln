@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp(tax_management_system)", "c-sharp(tax_management_system)\c-sharp(tax_management_system).csproj", "{37B35751-2984-4BF8-9278-50F2D32D497B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37B35751-2984-4BF8-9278-50F2D32D497B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B35751-2984-4BF8-9278-50F2D32D497B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B35751-2984-4BF8-9278-50F2D32D497B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B35751-2984-4BF8-9278-50F2D32D497B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {726D46EB-4E20-42EE-8BC2-98C2E2962C5E}
+	EndGlobalSection
+EndGlobal
